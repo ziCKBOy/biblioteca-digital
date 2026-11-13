@@ -1,0 +1,12 @@
+[
+  { "id": 1, "nombre": "mario", "categoria": "DOCENTE" },
+  { "id": 2, "nombre": "Matías González Pérez", "categoria": "POSGRADO" },
+  { "id": 3, "nombre": "Valentina Soto Araya", "categoria": "DOCENTE" },
+  { "id": 4, "nombre": "Sebastián Muñoz Vera", "categoria": "PREGRADO" },
+  { "id": 5, "nombre": "Francisca Contreras Díaz", "categoria": "POSGRADO" },
+  { "id": 6, "nombre": "Nicolás Herrera Silva", "categoria": "PREGRADO" },
+  { "id": 7, "nombre": "Javiera Morales Campos", "categoria": "DOCENTE" },
+  { "id": 8, "nombre": "Diego Castillo Reyes", "categoria": "PREGRADO" },
+  { "id": 9, "nombre": "Constanza Vargas Núñez", "categoria": "POSGRADO" },
+  { "id": 10, "nombre": "Felipe Sepúlveda Lagos", "categoria": "DOCENTE" }
+]
