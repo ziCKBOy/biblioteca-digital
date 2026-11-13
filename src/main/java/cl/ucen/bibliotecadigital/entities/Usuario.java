@@ -5,9 +5,9 @@ public class Usuario {
     private Integer id;
     private String nombre;
     private String categoria;
-    static String  PREGRADO="PREGRADO";
-    static String  POSTGRADO="POSTGRADO";
-    static String  DOCENTE="DOCENTE";
+    public static String  PREGRADO="PREGRADO";
+    public static String  POSTGRADO="POSTGRADO";
+    public static String  DOCENTE="DOCENTE";
 
     public String getCategoria() {
         return categoria;

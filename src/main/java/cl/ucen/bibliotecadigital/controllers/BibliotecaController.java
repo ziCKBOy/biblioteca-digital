@@ -1,5 +1,11 @@
 package cl.ucen.bibliotecadigital.controllers;
 
+import cl.ucen.bibliotecadigital.entities.Material;
+import cl.ucen.bibliotecadigital.entities.Usuario;
+import cl.ucen.bibliotecadigital.services.AsignacionServices;
+import cl.ucen.bibliotecadigital.services.MaterialServices;
+import cl.ucen.bibliotecadigital.services.UsuarioServices;
+
 import java.util.Scanner;
 
 public class BibliotecaController {

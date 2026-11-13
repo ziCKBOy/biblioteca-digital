@@ -1,5 +1,7 @@
 package cl.ucen.bibliotecadigital.services;
 
+import cl.ucen.bibliotecadigital.entities.Usuario;
+
 public class UsuarioServices {
 
 

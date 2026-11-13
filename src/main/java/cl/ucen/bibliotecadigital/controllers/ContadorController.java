@@ -1,5 +1,8 @@
 package cl.ucen.bibliotecadigital.controllers;
 
+import cl.ucen.bibliotecadigital.entities.Asignacion;
+import cl.ucen.bibliotecadigital.services.AsignacionServices;
+
 public class ContadorController {
 
     public static void main(String[] args) {
